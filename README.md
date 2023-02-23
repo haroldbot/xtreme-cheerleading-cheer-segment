@@ -96,6 +96,8 @@ Black {echo black} Gold {echo gold}
 > Alternative choices for consideration:
 > - Black and gold {echo black and gold} (less clean sounding)
 
+## License
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
