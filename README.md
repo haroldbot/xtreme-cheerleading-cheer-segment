@@ -1,6 +1,31 @@
-﻿# Xtreme Cheerleading Cheer Segment
+# Xtreme Cheerleading Cheer Segment
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+## Consolidated Chant (what you need to know)
+
+\[Opening by captain\] We are
+
+We are  
+X-T-R, E-M-E  
+We are Xtreme  
+X-T-R, E-M-E  
+We are Xtreme  
+X-T-R, E-M-E  
+We are Xtreme  
+Everyone, on this side yell  
+Black {crowd echo}  
+Black {crowd echo}  
+Everyone, on this side yell  
+Gold {crowd echo}  
+Gold {crowd echo}  
+Everyone, all together now  
+Black {crowd echo}  
+Gold {crowd echo}  
+Black {crowd echo}  
+Gold {crowd echo}  
+Black {crowd echo}  
+Gold {crowd echo}  
 
 ## Props
 
@@ -14,7 +39,7 @@
 
 ![Cheer Segment Positioning](/assets/img/positioning.png)
 
-- 2 rear stunts: assisted walk to hands
+- 2 rear stunts: walk to hands
 - 3 middle stunts: toss to toe touch, retake to shoulder sit
 - 4 front: megaphones
 
@@ -66,7 +91,7 @@ We are Xtreme
 - [Line 1.2](#line-1.11.2)
 - [Line 2.2](#line-2.2) x2
 - [Line 1.3](#line-1.3)
-- [Line 2.3](#line-2.3) x3 or 4
+- [Line 2.3](#line-2.3) x3
 
 #### Line 1.1/1.2
 
