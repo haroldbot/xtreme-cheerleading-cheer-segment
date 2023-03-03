@@ -2,11 +2,11 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-## Consolidated Chant (what you need to know)
+## Chant
 
-\[Opening by captain\] We are
+\[Opening by captain\] Ready! We are
 
-We are  
+Xtreme  
 X-T-R, E-M-E  
 We are Xtreme  
 X-T-R, E-M-E  
@@ -19,13 +19,10 @@ Black {crowd echo}
 Everyone, on this side yell  
 Gold {crowd echo}  
 Gold {crowd echo}  
-Everyone, all together now  
-Black {crowd echo}  
-Gold {crowd echo}  
-Black {crowd echo}  
-Gold {crowd echo}  
-Black {crowd echo}  
-Gold {crowd echo}  
+Everyone, together now  
+Black and gold {crowd echo}  
+Black and gold {crowd echo}  
+Black and gold {crowd echo}  
 
 ## Props
 
@@ -37,89 +34,14 @@ Gold {crowd echo}
 
 ## Choreography
 
-![Cheer Segment Positioning](/assets/img/positioning.png)
-
-- 2 rear stunts: walk to hands
-- 3 middle stunts: toss to toe touch, retake to shoulder sit
+- First basket: kick full kick full
+- 2 rear stunts 
+  - walk to extension
+  - extension down to hands, pop to shoulders
+  - shoulder stand pop off
+- 3 center stunts: toss to toe touch
+- Second baskets: around the world
 - 4 front: megaphones
-
-## Chant Format
-
-- [Opening](#opening) (captain or designated  to solo)
-- [Stanza 1](#stanza-1)
-- [Stanza 2](#stanza-2)
-
-### Opening
-
-We are {team echoes we are}
-
-> Notes: doubles as pacesetter for the rest of the cheer; must not rush
->
-> Alternative lines for consideration:
-> - Ready! (kinda vanilla)
-> - other suggestions welcome
-
-### Stanza 1
-
-#### Format
-
-- Repeat 3x
-  - [Line 1](#line-1)
-  - [Line 2](#line-2)
-
-#### Line 1
-
-X-T-R E-M-E
-
-> Notes: ideally 4 syllables; currently T & M on syncopated beats, but probably best choice
-
-#### Line 2 
-
-We are Xtreme
-
-> Alternative choices for consideration:
-> - Team Xtreme (probably not, wanna distinguish from hall team)
-> - Let’s go Xtreme (doesn’t sound great)
-> - other suggestions welcome
-
-### Stanza 2
-
-#### Format
-
-- [Line 1.1](#line-1.11.2)
-- [Line 2.1](#line-2.1) x2
-- [Line 1.2](#line-1.11.2)
-- [Line 2.2](#line-2.2) x2
-- [Line 1.3](#line-1.3)
-- [Line 2.3](#line-2.3) x3
-
-#### Line 1.1/1.2
-
-[Everyone] on this side yell
-
-> Alternative lines for consideration:
-> - [Everyone] let’s hear you yell
-
-#### Line 1.3
-
-[Everyone] all together now
-
-> Notes: hopefully find a replacement for everyone, a bit generic and is also a place to potentially show uniqueness 
-
-#### Line 2.1
-
-Black {echo black}
-
-#### Line 2.2
-
-Gold {echo gold}
-
-#### Line 2.3
-
-Black {echo black} Gold {echo gold}
-
-> Alternative choices for consideration:
-> - Black and gold {echo black and gold} (less clean sounding)
 
 ## License
 
