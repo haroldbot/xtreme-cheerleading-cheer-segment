@@ -23,6 +23,8 @@ Everyone, together now
 Black and gold {crowd echo}  
 Black and gold {crowd echo}  
 Black and gold {crowd echo}  
+Xtreme \[clap twice\]
+Let's go
 
 ## Props
 
